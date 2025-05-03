@@ -106,7 +106,7 @@ Pull requests are welcome! Feel free to fork the repo and submit improvements.
 
 ## 📩 Contact
 
-For any queries, reach out to \[Your Name] at \[[your-email@example.com](mailto:your-email@example.com)].
+For any queries, reach out to \[Deepika] at \[[your-email@example.com](mailto:deepikashiva45@gmail.com)].
 
 ---
 
